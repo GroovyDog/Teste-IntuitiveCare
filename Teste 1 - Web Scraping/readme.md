@@ -1,7 +1,7 @@
-#Objetivo
+# Objetivo
  Acessar o site, buscar a versão mais recente do Padrão TISS e baixar o componente
  
- #Como executar
+# Como executar
  O algoritmo utiliza Beautifulsoup4, portanto a dependência precisa ser instalada antes
  
  ```
